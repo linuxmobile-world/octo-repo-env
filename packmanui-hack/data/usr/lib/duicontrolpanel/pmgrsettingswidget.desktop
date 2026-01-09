@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=ControlPanelApplet
+Name=Installations
+X-logical-id=qtn_pmgr_appname
+X-translation-catalog=packagemanager
+X-Maemo-Object-Path=/
+# this has to be the same as Name
+X-Maemo-Fixed-Args=Installations
+X-Maemo-Service=com.nokia.DuiControlPanel
+X-Maemo-Method=com.nokia.DuiControlPanelIf.appletPage
+
+[DUI]
+X-DUIApplet-Applet=libpmgrsettingswidget.so
+
+[DCP]
+Category=Installations
+Order=1
+WidgetType= Label

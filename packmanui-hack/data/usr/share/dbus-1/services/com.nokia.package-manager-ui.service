@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.nokia.package_manager_ui
+Exec=/usr/bin/package-manager-ui

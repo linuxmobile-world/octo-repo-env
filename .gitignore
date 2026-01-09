@@ -2,10 +2,9 @@ chrony
 grob-frogfind-search
 octo
 packman-hack
-packmanui-hack
 repoinstaller
 tzdata
-*.deb
+/*.deb
 *.tar.xz
 *.buildinfo
 *.changes

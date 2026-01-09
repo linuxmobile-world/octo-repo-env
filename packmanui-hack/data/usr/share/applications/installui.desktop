@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Install UI
+#Icon=
+#This is needed to prevent this action appearing in the launcher.
+NotShowIn=X-MeeGo;
+
+#Defining a localization method: MeeGoTouch-based
+X-MeeGo-translation-catalog=packagemanager
+X-MeeGo-logical-id=
+
+#Defining when this action applies: ordinary mimetypes
+MimeType=application/x-debian-package;application/x-deb;
+
+#Defining how to trigger the action: general D-Bus invocation
+X-Maemo-Service=com.nokia.package_manager_install_ui
+X-Maemo-Method=com.nokia.package_manager_install_ui.install_file_mime
+X-Maemo-Object-Path=/com/nokia/package_manager_install_ui
