@@ -1,0 +1,7 @@
+Package: tls-fix
+Version: 1.0-13
+Section: user/other
+Priority: optional
+Architecture: all
+Maintainer: Yan <me@octonezd.me>
+Description: TLS Fix as a package
