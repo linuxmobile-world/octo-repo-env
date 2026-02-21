@@ -9,6 +9,7 @@ developer-mode
 dropbear
 prs
 sdk-connectivity-tool
+tlsfix
 /*.deb
 *.tar.xz
 *.buildinfo
