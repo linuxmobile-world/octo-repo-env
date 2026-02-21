@@ -4,6 +4,11 @@ octo
 packman-hack
 repoinstaller
 tzdata
+packmanui-hack
+developer-mode
+dropbear
+prs
+sdk-connectivity-tool
 /*.deb
 *.tar.xz
 *.buildinfo
