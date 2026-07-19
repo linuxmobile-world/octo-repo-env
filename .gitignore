@@ -10,9 +10,11 @@ dropbear
 prs
 sdk-connectivity-tool
 tlsfix
-/*.deb
+3rdparty
+*.deb
 *.tar.xz
 *.buildinfo
 *.changes
 *.dsc
 *.tar.gz
+icd

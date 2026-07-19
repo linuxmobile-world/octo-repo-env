@@ -1,0 +1,8 @@
+Origin: octonezd.me
+Label: Octonezd Repository
+Suite: meego
+Codename: meego
+Architectures: armel
+Components: main
+Description: Repository for octonezd
+SignWith: 725C41EA5A34167F82BA09AE91557563AEF90696

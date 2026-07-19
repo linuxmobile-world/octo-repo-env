@@ -1,0 +1,12 @@
+Package: about-contents-prod
+Source: about-contents
+Version: 1.2.1-2+0m9
+Architecture: armel
+Maintainer: David Kedves <dkedves@blumsoft.eu>
+Installed-Size: 44
+Depends: libc6 (>= 2.4), libdmtx0, libgcc1 (>= 1:4.1.1), libqtcore4 (>= 4.7.4~git20120117), libqtgui4 (>= 4.7.4~git20120117), libqtm-systeminfo, libstdc++6 (>= 4.3.0), libsysinfo0
+Conflicts: about-contents-devel
+Replaces: about-contents-devel
+Section: misc
+Priority: optional
+Description: Final product about contents
